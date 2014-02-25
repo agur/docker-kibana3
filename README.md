@@ -1,6 +1,8 @@
 # Kibana 3
 
-Kibana - http://www.elasticsearch.org/overview/kibana/
+Kibana
+- http://www.elasticsearch.org/overview/kibana/
+- https://index.docker.io/u/andrewh/kibana3/
 
 Nginx - http://wiki.nginx.org/Main/
 
