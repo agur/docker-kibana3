@@ -1,6 +1,6 @@
 # Kibana 3
 
-Kibana - http://three.kibana.org/
+Kibana - http://www.elasticsearch.org/overview/kibana/
 
 Nginx - http://wiki.nginx.org/Main/
 
